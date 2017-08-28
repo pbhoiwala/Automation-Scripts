@@ -1,0 +1,5 @@
+[https://ifunny.co]
+[slack-api-token]
+[slack-channel-name]
+[slack-bot-username]
+
