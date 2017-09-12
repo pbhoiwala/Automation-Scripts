@@ -1,0 +1,2 @@
+playlist=https://your-playlist-url-no-spaces
+path=/PATH/TO/YOUR/DESTINATION/SONGS/FOLDER
