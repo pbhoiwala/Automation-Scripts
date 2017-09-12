@@ -33,6 +33,7 @@ Downloaded 3 new songs
 Moving songs to GooglePlay Library...
 Successfully moved songs to GooglePlay Library 
 ```
+After the setup is successful, all you need to do is 1) Add songs to your playlist and 2) Run the script. And that's it. Songs will be on your phone within minutes.
 
 # How it works
 The `main.py` python script is well commented and the code is pretty self-explanatory. In short, first I initialize some lists and objects; and then parse `config.txt` to get the playlist url and destination path. Then youtube_dl options are created in `get_download_options()` in which I specify the quality and format I'd like the songs to be downloaded.
